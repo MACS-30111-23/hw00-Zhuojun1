@@ -24,10 +24,16 @@ My hometown:Hubei, China
 
 ## What I want to do in Chicago
 * Learn all the things I want to learn!
-* Watching mapple leaves in autumn.
+* Watching mapple leaves in autumn. <br />
+  ![image](https://github.com/MACS-30111-23/hw00-Zhuojun1/blob/main/%E8%8A%9D%E5%8A%A0%E5%93%A5%E7%A7%8B%E8%89%B2%E5%80%BC%E5%87%A0%E4%B8%AA%E5%A4%A7%E5%AD%A6.jpg) <br />
 * Felling big snow in winter.
 * Make some close friends!
 
+# Summary and Reflection
+***1.what I adopted for this homework***<br />
+I know how to add pictures and links to the README file! That's what I didn't know before!! For example, I need to upload a picture file before I need to add picture in my README file. Also, I learnt how to write README file systemeticly.<br />
+***2.My experience with Markdown***<br />
+I have learnt a little bit about HTML language， where I learnt some Markdown. But I almost forget all of it!!
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
