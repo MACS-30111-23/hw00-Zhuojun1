@@ -10,6 +10,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)/
 
 # Something About Me!
+## My Basic Information
 ```
 My Chinese name: Zhuojun Yi
 My English name: Cola Yi (Because I really like drinking cola!!!!)
@@ -19,7 +20,13 @@ My hometown:Hubei, China
 ## My Interests
 *Sports:* basketball, running, jumping rope<br />
 *Other interests:* doing hand crafts<br />
-*Research interests:* consumer behavior([My github link](#<br />
+*Research interests:* **consumer behavior** [My github link](https://github.com/Zhuojun1) <br />
+
+## What I want to do in Chicago
+* Learn all the things I want to learn!
+* Watching mapple leaves in autumn.
+* Felling big snow in winter.
+* Make some close friends!
 
 
 ## 📚  Resources 
